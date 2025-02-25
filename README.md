@@ -1,2 +1,2 @@
-# Zoom
-A full stack video conferencing web application.
+# Git-Hub
+A full stack Git-Hub web application.
